@@ -1,0 +1,6 @@
+{
+  "name": "Hồn Việt - Du Lịch Di Sản & Văn Hóa Việt Nam",
+  "description": "Nền tảng trải nghiệm và đặt sản phẩm du lịch truyền thống, làng nghề di sản văn hóa Việt Nam, cổng thanh toán VietQR linh hoạt và hệ thống quản trị đơn hàng thông minh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
